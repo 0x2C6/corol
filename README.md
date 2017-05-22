@@ -16,8 +16,8 @@ You should use 'sudo' to install gems .
 ```ruby
 require 'corol'
 
-puts "This text's output will be red".red #=> Output will be red
-puts "This text's output will be bold" #=> This text's output will be bold
+puts "This text's output will be red".red   #=> Output will be red
+puts "This text's output will be bold".bold #=> Output will be bold
 ```
 
 
