@@ -1,8 +1,8 @@
 # Corol [![Gem Version](https://badge.fury.io/rb/corol.svg)](https://badge.fury.io/rb/corol)
 
-Simple ruby gem for make texts beautiful.
+Simple ruby gem to make texts beautiful.
 
-Usage is very simple . Just call color name as a method and let it work. You can see methods below. New colors will be added.
+Usage is very simple . Just call color's name as a method and let it to work. You can see methods below. New colors will be added.
 
 ## Installation
 
