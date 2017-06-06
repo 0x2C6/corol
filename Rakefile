@@ -11,3 +11,4 @@ Corol.public_instance_methods.each do |method|
   print "Method for this color ".method(method).call,"= .#{method}\n"
 end
 end
+task :default => :test
