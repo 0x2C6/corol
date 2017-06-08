@@ -1,4 +1,4 @@
-# Corol [![Gem Version](https://badge.fury.io/rb/corol.svg)](https://badge.fury.io/rb/corol) [![Build Status](https://travis-ci.org/Farhad-Eyvazli/corol.svg?branch=master)](https://travis-ci.org/Farhad-Eyvazli/corol) [![Code Climate](https://codeclimate.com/github/Farhad-Eyvazli/corol/badges/gpa.svg)](https://codeclimate.com/github/Farhad-Eyvazli/corol) 
+# Corol [![Gem Version](https://badge.fury.io/rb/corol.svg)](https://badge.fury.io/rb/corol) [![Build Status](https://travis-ci.org/Farhad-Eyvazli/corol.svg?branch=master)](https://travis-ci.org/Farhad-Eyvazli/corol) [![Code Climate](https://codeclimate.com/github/Farhad-Eyvazli/corol/badges/gpa.svg)](https://codeclimate.com/github/Farhad-Eyvazli/corol) [![Dependency Status](https://gemnasium.com/badges/github.com/Farhad-Eyvazli/corol.svg)](https://gemnasium.com/github.com/Farhad-Eyvazli/corol)
 
 Simple ruby gem to make texts beautiful.
 
